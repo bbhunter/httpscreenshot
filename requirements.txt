@@ -9,3 +9,4 @@ pyvirtualdisplay
 reload
 webdriver_manager
 lxml
+urllib3<2.0.0
